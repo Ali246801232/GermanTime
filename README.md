@@ -6,7 +6,7 @@ GermanTime is a Python-based graphical user interface (GUI) program that enables
 
 ### Downloading and Running
 
-To use the program, all you need to do is download the `GermanTime.zip` file from the latest release at [Releases](https://github.com/Ali246801232/GermanTime/releases). All required files and dependencies are included inside of this, so no additional installation is necessary. After downloading, simply extract the directory execute the `GermanTime.exe` file inside.
+To use the program, all you need to do is download the `GermanTime.zip` file from the latest release at [Releases](https://github.com/Ali246801232/GermanTime/releases). All required files and dependencies are included inside of this, so no additional installation is necessary. After downloading, simply extract the directory and execute the `GermanTime.exe` file inside.
 
 ### How to Use
 
