@@ -37,3 +37,5 @@ This project is licensed under the terms of The Unlicense. A copy of the license
 ### Version 1.0.0 (2023-05-DD)
 
 - Initial release of the program
+
+This is a side-project I worked on for a day or two while learning German, so the first release is probably the last. Don't expect updates.
