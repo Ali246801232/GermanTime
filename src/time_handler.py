@@ -1,5 +1,3 @@
-from pyperclip import copy  # to copy result to clipboard
-
 # Function to convert numbers to German words
 def NumToWord(number):
     # Define word mappings
