@@ -1,4 +1,4 @@
-# GermanTime [<img style="float: right;" src="https://i.postimg.cc/k4LQt1CH/German-Time.png" width="160">](https://postimg.cc/bDHD7Rs0)
+# GermanTime [<img align="right" width="160" src="https://i.postimg.cc/k4LQt1CH/German-Time.png>](https://postimg.cc/bDHD7Rs0)
 
 GermanTime is a Python-based graphical user interface (GUI) program that enables users to input time in a 12-hour format and convert it to German words.
 
